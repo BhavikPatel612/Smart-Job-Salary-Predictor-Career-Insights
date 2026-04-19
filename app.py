@@ -7,7 +7,7 @@ from sklearn.linear_model import LinearRegression
 st.set_page_config(page_title="Salary Predictor", layout="wide")
 
 # Load data
-df = pd.read_csv("data/salary_data.csv")
+df = pd.read_csv("salary_data.csv")
 
 # Train model
 X = df[["experience"]]
