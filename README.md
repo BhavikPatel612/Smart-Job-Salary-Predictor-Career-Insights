@@ -1,5 +1,6 @@
 # 💼 Smart Job Salary Predictor + Career Insights
 STAR Method – Salary Predictor Project
+
 S – Situation
 
 • Many students and job seekers do not know the expected salary based on their experience and skills. Companies also use salary prediction for market analysis and hiring decisions.
@@ -25,5 +26,6 @@ To complete this project, I performed the following steps:
 • Displayed predicted salary in the Streamlit web application”
 
 R – Result
+
 • The system successfully predicts estimated salary based on experience and provides an interactive visualization dashboard.
 • The project demonstrates the use of machine learning and data visualization for real-world salary prediction.
