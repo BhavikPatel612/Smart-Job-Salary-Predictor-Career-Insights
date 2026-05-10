@@ -1,4 +1,4 @@
-# 💼 Smart Job Salary Predictor + Career Insights
+# 💼 Smart Job Salary Predictor + Career Insights 
 
 **Explanation Using STAR Method**
 
