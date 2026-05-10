@@ -1,5 +1,6 @@
 # 💼 Smart Job Salary Predictor + Career Insights
-STAR Method – Salary Predictor Project
+
+Explanation Using STAR Method
 
 S – Situation
 
