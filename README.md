@@ -29,3 +29,5 @@ R – Result
 
 • The system successfully predicts estimated salary based on experience and provides an interactive visualization dashboard.
 • The project demonstrates the use of machine learning and data visualization for real-world salary prediction.
+
+Streamlit Web Link :-https://smart-job-salary-predictor-career-insights-7eqseajglzlffzqgqjg.streamlit.app/
